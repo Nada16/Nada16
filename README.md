@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nada16
-- 👀 I’m interested in developing softwares
-- 🌱 I’m currently learning Software Testing
+- :computer: Junior Software Engineer
 - 💞️ I’m looking to collaborate on developing 2d and 3d games
 - 📫 How to reach me nada.alnoory@gmail.com
 
