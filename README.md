@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <h1>Hi, I’m Nada Alnoory 👋</h1>
   
-:computer: Junior Software Engineer [**@Resal**](https://resal.me)
+:computer: A Software Engineer
   
-:video_game: I’m looking to collaborate on developing 2d and 3d games
+:video_game: I’m looking to collaborate on developing video games
   
 :envelope: Reach me at nada.alnoory@gmail.com
 
